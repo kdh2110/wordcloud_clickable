@@ -1,0 +1,64 @@
+# ─────────────────────────────────────────────────────────────
+# 집계에서 완전히 제외할 키프레이즈 (1단어·다단어 모두 가능)
+#  - 단수/복수·대소문자·하이픈 차이는 자동으로 맞춰집니다.
+# ─────────────────────────────────────────────────────────────
+
+# 통계 용어
+confidence interval
+odds ratio
+adjusted odds ratio
+hazard ratio
+adjusted hazard ratio
+relative risk
+risk ratio
+standard deviation
+standard error
+interquartile range
+p value
+statistical significance
+statistical analysis
+regression analysis
+multivariate analysis
+multivariable analysis
+logistic regression analysis
+area under the curve
+
+# 서술용 구문
+present study
+current study
+previous study
+this study
+further study
+future study
+future research
+recent study
+control group
+treatment group
+study population
+study design
+study period
+study group
+clinical study
+large number
+wide range
+high level
+low level
+significant difference
+key role
+important role
+crucial role
+recent year
+long term
+short term
+
+# 인구통계/색인성 키워드
+aged
+middle aged
+adult
+human
+female
+male
+animal
+man
+woman
+year old
